@@ -22,15 +22,24 @@
       },
       "Parameters": [
         {
-          "Name": "username"
+          "Name": "username",
+          "Remark": "必填项"
         },
         {
-          "Name": "fullname"
+          "Name": "fullname",
+          "Remark": "选填项目"
         },
         {
           "Name": "pasword"
         }
       ]
+    }
+  ],
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.ExportPageToPdfCommand, ServerDesignerCommon",
+      "TargetPageName": "simplename",
+      "ServerExportFileName": "D:\\download\\ExportPDFSimplePage"
     }
   ]
 }
