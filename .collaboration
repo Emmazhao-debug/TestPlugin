@@ -278,7 +278,16 @@
   },
   {
     "ModuleName": "PCPage/页面1",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T17:02:58.8974492+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\验证页面命名\\页面1.json"
+    ]
   },
   {
     "ModuleName": "MasterPages/流程母版页面文件夹",
