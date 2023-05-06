@@ -5,16 +5,117 @@
   "Cols": {
     "Count": 60
   },
+  "Values": {
+    "1,2": "名称：",
+    "5,2": "密码："
+  },
+  "AttachInfos": {
+    "2,2": {
+      "CellType": {
+        "$type": "ElementUI.InputCellType, ElementUI",
+        "CommandList": [],
+        "UIPermissions": [
+          {
+            "Scope": 2,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Scope": 1,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Scope": 4,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          }
+        ],
+        "type": "text",
+        "placeholder": "account",
+        "resize": "none"
+      }
+    },
+    "6,2": {
+      "CellType": {
+        "$type": "ElementUI.InputCellType, ElementUI",
+        "CommandList": [],
+        "UIPermissions": [
+          {
+            "Scope": 2,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Scope": 1,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Scope": 4,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          }
+        ],
+        "type": "password",
+        "maxlength": "12",
+        "placeholder": "password",
+        "resize": "none",
+        "showPassword": true
+      }
+    }
+  },
   "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0
+      }
+    ],
     "Types": {
       "Strs": [
         "Body"
       ]
     },
+    "CellStyles": {
+      "6,2": 0,
+      "6,3": 0,
+      "6,4": 0,
+      "6,5": 0,
+      "6,6": 0,
+      "6,7": 0,
+      "6,8": 0,
+      "6,9": 0,
+      "6,10": 0,
+      "6,11": 0,
+      "6,12": 0,
+      "6,13": 0,
+      "7,2": 0,
+      "7,3": 0,
+      "7,4": 0,
+      "7,5": 0,
+      "7,6": 0,
+      "7,7": 0,
+      "7,8": 0,
+      "7,9": 0,
+      "7,10": 0,
+      "7,11": 0,
+      "7,12": 0,
+      "7,13": 0
+    },
     "SheetStyle": {
       "FontFamily": 0
     }
   },
+  "Spans": [
+    "2,2,2,12",
+    "6,2,2,12"
+  ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
     "PermissionData": {
@@ -38,4 +139,4 @@
     "PaperSize": {},
     "Margin": {}
   }
-}//nyH2/fVPrljpQh9LDVH5aCa+l5k1zGMWzDWqKXPMopeVe4Xr4NFiJUI7bmwERiFP/wDDrWESx/QMUIIhkAByxVjKOsuohTIbhIXWkr5k7UtPt0su0f4aotJrBrZV6G9XWy86LxKg7G0Q/ejdvT/otCCuJi0DqiQAcTKsG7XrIDVTBw0ElyGGUTreIkU4ceQ8cJg13dvOiIPWrvwRWrmZZQnxHtg8PBK3oSQb/YchoLuKuAk1uhfeknDHJH7atADVFJygIa5maBwlKGUX3PPas06H0KJWEI0ASYPHeCVtmwGnl8yn1re/qYIUqGiknXCS64ma0CuaNCUFMEM7Vp6Xd954YEUCWF9buWTZ9vlzwK1CRYlQDp5T37dvU66AlWLcaC2bRRQ1wQbqU8ekdYaSdJ4hEhjr+wZ+8hgn2JmgFdgwVSwUIeFzT7U/LBIiv8JUL1+Ur96V5HJq3JdWdrq5UgH2A7DgDxhJ1AwaR65M6crHKmzgd6p8nI8Mu/SCwseF0tJpZM2tvTmHdQPc5tu40jZuxLfm6Si3hWmyGJrmdMwJChGKrdCElgNDXskp+vEwUwz+juiUuKB8E+C3WBYur9MENXoZJbvGSB+AWq6FCPr7GgVMqSZLts4MTxrvJgsnOcM9tksXARL6QW6jnoI6QUNVhZ3JZsqgKT+byOrVeKW7BZQjB2nAzAgNTJcX8HoleBnh8aOYUzDR/h3iYsIZGTEBVF+On+/nLGBT7Mm/c+Q2T11Nr0cLIMsi9SEo7iETzG65bzL8Uk6InwmO6MzG0NaF3EveADSgFmrooOS45LNdbJxSFpJHSBd2F8Yc4YBTe/7z6YQYRCMHVsrtAktU//Rq7HTs78pW8Mq4pZUbn1QJ5+qXZu1bGcVCCIMzoNQAhjoE2Q0k240b3WKiCLaWGw==|920
+}//uzZJCS+hDBa9486dnbzXJ/0ypHgJ58Q9bgH79v0Z/t3zXGrDiqlEaHPqhplGVUIuBtSWU2NiLrIXw5NXbPjX/clqPRZun+dVcPlHNfycGdTWnSCzt9jPGKC2B2QvI2WODw1k0xq81nXSnQh+CiHsUOfwBo+4c+wPw+b1GwJBsL5YZoon2CcBJ3A9Tg30U00iUhdF6uzQLL/q9lGNme3BC3do2WXKBqSK5UBorTm0b9E91LuxEePCBGQXFzwT3tCZJ9pYvpkWjw4baOp02eNK1uUhSAFGo1GmtGP8Y75g1dDWIjycmC++kNYktR8yVCg+5DzVqquH/+HH8CdMPor1qrDn5uPer8BiUlURkmipxJnUwPB3w5i+1RqWtA1gtI/98izaSJmVbi03b41Va1uP5PTXNPyAZpe07dYL9pQbbeBZULKEbjw3HMOITI/F1qjOVX53eUb/XeWS/ELW8NJkFRvHi54gwoRU6WKj9Vdq+uXD/cwYVaQdprjDp2hn+Mivh65oo/UIdaM5qhTukGVZ/c+iRWDnN3zO/0TsLxQ7abKLaOq964yZx3AqpaxhPHaonIuPcEw3kifjQ4a1+7sBDYVm8368MhVb8WJSIarf9La5p0bOgA45x4JlqKRlOUwTGLACTSuxmnpLrTmK3Mq7waz/eABcSAsQAj8beUCUOU8/o8cPtcbMDqOLNjShLtplESP2kmIyRkelAf59ridXrfZR5W78iI3wr8baDf0X5o16unpowV0Un+RNwtMZAUzUHlNTYO93ctJaXjdHamt2Bk6KZ3k4LcLKY6xp0TKA2Q0um/bxvPkiLIvjkisXExKCEKEzybLi05iJOWK7pCHWf9Cv/TwEwavfN36fMcQbPNGbCqSb9pia1L2qBYvEUY5REn9XMbnSVsrPdeit/3NxfA==|920
