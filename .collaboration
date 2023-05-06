@@ -1056,19 +1056,58 @@
   },
   {
     "ModuleName": "Reports/RDL报表",
-    "ModuleType": 19
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:51:21.8991919+08:00",
+    "ModuleType": 19,
+    "ToRemoveFiles": [
+      "Reports\\RDL报表"
+    ]
   },
   {
     "ModuleName": "RdlReport/RDL报表设计",
-    "ModuleType": 18
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:51:21.899186+08:00",
+    "ModuleType": 18,
+    "ToRemoveFiles": [
+      "Reports\\RDL报表\\RDL报表设计.json",
+      "Reports\\RDL报表\\RDL报表设计.rdlx"
+    ]
   },
   {
     "ModuleName": "PageReport/信息统计",
-    "ModuleType": 17
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:51:21.899188+08:00",
+    "ModuleType": 17,
+    "ToRemoveFiles": [
+      "Reports\\RDL报表\\信息统计.json",
+      "Reports\\RDL报表\\信息统计.rdlx"
+    ]
   },
   {
     "ModuleName": "PageReport/页面报表-表单打印",
-    "ModuleType": 17
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:51:21.8991891+08:00",
+    "ModuleType": 17,
+    "ToRemoveFiles": [
+      "Reports\\RDL报表\\页面报表-表单打印.json",
+      "Reports\\RDL报表\\页面报表-表单打印.rdlx"
+    ]
   },
   {
     "ModuleName": "ProcessItem/验证流程在线编辑",
