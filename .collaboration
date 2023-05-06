@@ -1,1143 +1,353 @@
 [
   {
     "ModuleName": "Tables/流程表文件夹",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:44.0929737+08:00",
-    "ModuleType": 22,
-    "ToRemoveFiles": [
-      "Tables\\流程表文件夹"
-    ]
+    "ModuleType": 22
   },
   {
     "ModuleName": "TableProcessView/ACT_HI_COMMENT_View",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:44.0920218+08:00",
     "ModuleType": 30,
-    "ToRemoveFiles": [
-      "Tables\\流程表文件夹\\ACT_HI_COMMENT_View.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "TableProcessView/ACT_HI_PROCINST_View",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:44.0920247+08:00",
     "ModuleType": 30,
-    "ToRemoveFiles": [
-      "Tables\\流程表文件夹\\ACT_HI_PROCINST_View.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "TableProcessView/ACT_HI_TASKINST_View",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:44.0920261+08:00",
     "ModuleType": 30,
-    "ToRemoveFiles": [
-      "Tables\\流程表文件夹\\ACT_HI_TASKINST_View.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "TableProcessView/ACT_RE_PROCDEF_View",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:44.0920273+08:00",
     "ModuleType": 30,
-    "ToRemoveFiles": [
-      "Tables\\流程表文件夹\\ACT_RE_PROCDEF_View.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "TableProcessView/ACT_RU_TASK_View",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:44.0920299+08:00",
     "ModuleType": 30,
-    "ToRemoveFiles": [
-      "Tables\\流程表文件夹\\ACT_RU_TASK_View.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/_5000行数据",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:44.0929836+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\_5000行数据.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/产品列表页面",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:44.0929856+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\产品列表页面.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/汽车企业信息",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:44.0929871+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\汽车企业信息.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/汽车销售信息",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:44.0929882+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\汽车销售信息.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Pages/内建手机页面",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6745689+08:00",
-    "ModuleType": 6,
-    "ToRemoveFiles": [
-      "Pages\\内建手机页面"
-    ]
+    "ModuleType": 6
   },
   {
     "ModuleName": "MobilePage/FGC_401页面_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.674267+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\内建手机页面\\FGC_401页面_手机版.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_两步验证_扫码页面_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6742901+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\内建手机页面\\FGC_两步验证_扫码页面_手机版.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_两步验证_验证页面_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.674339+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\内建手机页面\\FGC_两步验证_验证页面_手机版.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_修改密码_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6743515+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\内建手机页面\\FGC_修改密码_手机版.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_修改用户信息_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6743736+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\内建手机页面\\FGC_修改用户信息_手机版.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_忘记密码_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6743849+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\内建手机页面\\FGC_忘记密码_手机版.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_登录_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6744055+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\内建手机页面\\FGC_登录_手机版.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_维护中_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6744124+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\内建手机页面\\FGC_维护中_手机版.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_邮件订阅_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.674426+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\内建手机页面\\FGC_邮件订阅_手机版.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_重置密码_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6744361+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\内建手机页面\\FGC_重置密码_手机版.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_重置密码发送邮件成功_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6744455+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\内建手机页面\\FGC_重置密码发送邮件成功_手机版.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "Pages/内建页面",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6747239+08:00",
-    "ModuleType": 6,
-    "ToRemoveFiles": [
-      "Pages\\内建页面"
-    ]
+    "ModuleType": 6
   },
   {
     "ModuleName": "PCPage/FGC_401页面",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6745867+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\内建页面\\FGC_401页面.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_两步验证_扫码页面",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6745987+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\内建页面\\FGC_两步验证_扫码页面.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_两步验证_验证页面",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6746253+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\内建页面\\FGC_两步验证_验证页面.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_修改密码",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.674638+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\内建页面\\FGC_修改密码.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_修改用户信息",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6746531+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\内建页面\\FGC_修改用户信息.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_忘记密码",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6746635+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\内建页面\\FGC_忘记密码.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_登录",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6746836+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\内建页面\\FGC_登录.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_维护中",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6746906+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\内建页面\\FGC_维护中.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_邮件订阅",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6747017+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\内建页面\\FGC_邮件订阅.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_重置密码",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6747134+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\内建页面\\FGC_重置密码.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_重置密码发送邮件成功",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6747224+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\内建页面\\FGC_重置密码发送邮件成功.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Pages/流程页面文件夹",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6750861+08:00",
-    "ModuleType": 6,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹"
-    ]
+    "ModuleType": 6
   },
   {
     "ModuleName": "PCPage/FGC_任务详情",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6747516+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹\\FGC_任务详情.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_审批记录",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6747932+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹\\FGC_审批记录.json",
-      "Pages\\a9dda523558c44c189c02319d3d55b4.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_我发起的",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6748349+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹\\FGC_我发起的.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_我委托的",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6748782+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹\\FGC_我委托的.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_我的已办",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6749164+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹\\FGC_我的已办.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_我的已阅",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6749554+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹\\FGC_我的已阅.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_我的待办",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6749935+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹\\FGC_我的待办.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_我的待阅",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.675034+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹\\FGC_我的待阅.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_流程列表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6750752+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹\\FGC_流程列表.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/FGC_流程追踪",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6750838+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹\\FGC_流程追踪.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Pages/流程页面文件夹_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6753086+08:00",
-    "ModuleType": 6,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹_手机版"
-    ]
+    "ModuleType": 6
   },
   {
     "ModuleName": "MobilePage/FGC_任务详情_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6751023+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹_手机版\\FGC_任务详情_手机版.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_审批记录_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6751273+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹_手机版\\FGC_审批记录_手机版.json",
-      "Pages\\944e2444f41c43e288eb349b9c7e791.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_我发起的_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6751524+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹_手机版\\FGC_我发起的_手机版.json",
-      "Pages\\762e7dc48db84370a85030b2975d58a.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_我委托的_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6751747+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹_手机版\\FGC_我委托的_手机版.json",
-      "Pages\\cda331c332764d0dbf65cb0ea77374d.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_我的已办_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6751954+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹_手机版\\FGC_我的已办_手机版.json",
-      "Pages\\efad15458cd3490189cb6de447b36cc.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_我的已阅_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6752157+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹_手机版\\FGC_我的已阅_手机版.json",
-      "Pages\\70b9657d5097434ca68592ff7c03e21.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_我的待办_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.675249+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹_手机版\\FGC_我的待办_手机版.json",
-      "Pages\\82e83285545e45778beac0bbfe886cd.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_我的待阅_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6752708+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹_手机版\\FGC_我的待阅_手机版.json",
-      "Pages\\abb7d609ab5b4eaeaf9b29748cd49fd.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_流程列表_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6752995+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹_手机版\\FGC_流程列表_手机版.json",
-      "Pages\\5b5ec9b3fb5d4fd095de4c07414ea5e.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/FGC_流程追踪_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.675307+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\流程页面文件夹_手机版\\FGC_流程追踪_手机版.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "Pages/清除选择行",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6753753+08:00",
-    "ModuleType": 6,
-    "ToRemoveFiles": [
-      "Pages\\清除选择行"
-    ]
+    "ModuleType": 6
   },
   {
     "ModuleName": "PCPage/simpletestforselection",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6753742+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\清除选择行\\simpletestforselection.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Pages/错误警告信息",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.675497+08:00",
-    "ModuleType": 6,
-    "ToRemoveFiles": [
-      "Pages\\错误警告信息"
-    ]
+    "ModuleType": 6
   },
   {
     "ModuleName": "PCPage/CellNameinUserControl",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6753907+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\错误警告信息\\CellNameinUserControl.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/PC页面警告",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6754095+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\错误警告信息\\PC页面警告.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/Repeater",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6754646+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\错误警告信息\\Repeater.json",
-      "Pages\\b4fd58eec0f84c598585b2391c21913.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MobilePage/手机页面显示",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.675484+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\错误警告信息\\手机页面显示.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "PCPage/页面容器",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6754954+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\错误警告信息\\页面容器.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Pages/验证页面命名",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6755669+08:00",
-    "ModuleType": 6,
-    "ToRemoveFiles": [
-      "Pages\\验证页面命名"
-    ]
+    "ModuleType": 6
   },
   {
     "ModuleName": "PCPage/simplename",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6755281+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\验证页面命名\\simplename.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/修改浮动图片",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6755452+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\验证页面命名\\修改浮动图片.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/页面1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:51.6755658+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\验证页面命名\\页面1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPages/流程母版页面文件夹",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:56.8119905+08:00",
-    "ModuleType": 24,
-    "ToRemoveFiles": [
-      "MasterPages\\流程母版页面文件夹"
-    ]
+    "ModuleType": 24
   },
   {
     "ModuleName": "MasterPCPage/FGC_流程中心",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:56.8118384+08:00",
-    "ModuleType": 3,
-    "ToRemoveFiles": [
-      "MasterPages\\流程母版页面文件夹\\FGC_流程中心.json"
-    ]
+    "ModuleType": 3
   },
   {
     "ModuleName": "MasterMobilePage/FGC_流程中心_手机版",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:56.811862+08:00",
-    "ModuleType": 4,
-    "ToRemoveFiles": [
-      "MasterPages\\流程母版页面文件夹\\FGC_流程中心_手机版.json"
-    ]
+    "ModuleType": 4
   },
   {
     "ModuleName": "MasterPCPage/FGC_ユーザーマスターページ",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:56.8120107+08:00",
-    "ModuleType": 3,
-    "ToRemoveFiles": [
-      "MasterPages\\FGC_ユーザーマスターページ.json"
-    ]
+    "ModuleType": 3
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:50:56.8120196+08:00",
-    "ModuleType": 3,
-    "ToRemoveFiles": [
-      "MasterPages\\FGC_母版页.json"
-    ]
+    "ModuleType": 3
   },
   {
     "ModuleName": "UserControlPage/UserControl",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:02.9103988+08:00",
-    "ModuleType": 31,
-    "ToRemoveFiles": [
-      "UserControlPages\\UserControl.json"
-    ]
+    "ModuleType": 31
   },
   {
     "ModuleName": "UserControlPage/清除表格选项",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:02.9104683+08:00",
-    "ModuleType": 31,
-    "ToRemoveFiles": [
-      "UserControlPages\\清除表格选项.json"
-    ]
+    "ModuleType": 31
   },
   {
     "ModuleName": "ServerCommand/服务端命令1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:07.8395715+08:00",
-    "ModuleType": 15,
-    "ToRemoveFiles": [
-      "ServerCommands\\服务端命令1.json"
-    ]
+    "ModuleType": 15
   },
   {
     "ModuleName": "ShareCommandContainer/定义参数命令",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:17.1205237+08:00",
-    "ModuleType": 36,
-    "ToRemoveFiles": [
-      "ShareCommandContainers\\定义参数命令.json"
-    ]
+    "ModuleType": 36
   },
   {
     "ModuleName": "ShareCommandContainer/命令参数",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:17.1205271+08:00",
-    "ModuleType": 36,
-    "ToRemoveFiles": [
-      "ShareCommandContainers\\命令参数.json"
-    ]
+    "ModuleType": 36
   },
   {
     "ModuleName": "ShareCommandContainer/报表和模板命令",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:17.1205303+08:00",
-    "ModuleType": 36,
-    "ToRemoveFiles": [
-      "ShareCommandContainers\\报表和模板命令.json"
-    ]
+    "ModuleType": 36
   },
   {
     "ModuleName": "Reports/RDL报表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:21.8991919+08:00",
-    "ModuleType": 19,
-    "ToRemoveFiles": [
-      "Reports\\RDL报表"
-    ]
+    "ModuleType": 19
   },
   {
     "ModuleName": "RdlReport/RDL报表设计",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:21.899186+08:00",
-    "ModuleType": 18,
-    "ToRemoveFiles": [
-      "Reports\\RDL报表\\RDL报表设计.json",
-      "Reports\\RDL报表\\RDL报表设计.rdlx"
-    ]
+    "ModuleType": 18
   },
   {
     "ModuleName": "PageReport/信息统计",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:21.899188+08:00",
-    "ModuleType": 17,
-    "ToRemoveFiles": [
-      "Reports\\RDL报表\\信息统计.json",
-      "Reports\\RDL报表\\信息统计.rdlx"
-    ]
+    "ModuleType": 17
   },
   {
     "ModuleName": "PageReport/页面报表-表单打印",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:21.8991891+08:00",
-    "ModuleType": 17,
-    "ToRemoveFiles": [
-      "Reports\\RDL报表\\页面报表-表单打印.json",
-      "Reports\\RDL报表\\页面报表-表单打印.rdlx"
-    ]
+    "ModuleType": 17
   },
   {
     "ModuleName": "ProcessItem/验证流程在线编辑",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:26.1976212+08:00",
     "ModuleType": 28,
-    "ToRemoveFiles": [
-      "Process\\验证流程在线编辑.json",
-      "Process\\验证流程在线编辑.bpmn",
-      "ProcessForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 1
   },
   {
     "ModuleName": "ApplicationSetting",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:40.3324599+08:00",
-    "ModuleType": 8,
-    "ToRemoveFiles": [
-      "ApplicationSettings.json",
-      "favicon.ico"
-    ]
+    "ModuleType": 8
   },
   {
     "ModuleName": "Theme",
@@ -1145,94 +355,31 @@
   },
   {
     "ModuleName": "image/Built-in Images",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:31.1646003+08:00",
-    "ModuleType": 37,
-    "ToRemoveFiles": [
-      "image\\Built-in Images"
-    ]
+    "ModuleType": 37
   },
   {
     "ModuleName": "Image/fgc_built-in-page-logo.png",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:31.1645918+08:00",
-    "ModuleType": 38,
-    "ToRemoveFiles": [
-      "image\\Built-in Images\\fgc_built-in-page-logo.png"
-    ]
+    "ModuleType": 38
   },
   {
     "ModuleName": "Image/fgc_built-in-page-maintained.png",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:31.1645939+08:00",
-    "ModuleType": 38,
-    "ToRemoveFiles": [
-      "image\\Built-in Images\\fgc_built-in-page-maintained.png"
-    ]
+    "ModuleType": 38
   },
   {
     "ModuleName": "Image/fgc_loading.gif",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:31.1645951+08:00",
-    "ModuleType": 38,
-    "ToRemoveFiles": [
-      "image\\Built-in Images\\fgc_loading.gif"
-    ]
+    "ModuleType": 38
   },
   {
     "ModuleName": "Image/fgc_logo_dark.png",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:31.1645961+08:00",
-    "ModuleType": 38,
-    "ToRemoveFiles": [
-      "image\\Built-in Images\\fgc_logo_dark.png"
-    ]
+    "ModuleType": 38
   },
   {
     "ModuleName": "Image/fgc_logo_light.png",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:31.1645974+08:00",
-    "ModuleType": 38,
-    "ToRemoveFiles": [
-      "image\\Built-in Images\\fgc_logo_light.png"
-    ]
+    "ModuleType": 38
   },
   {
     "ModuleName": "Image/download.jpg",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:31.1646027+08:00",
-    "ModuleType": 38,
-    "ToRemoveFiles": [
-      "image\\download.jpg"
-    ]
+    "ModuleType": 38
   },
   {
     "ModuleName": "UserService",
@@ -1260,15 +407,6 @@
   },
   {
     "ModuleName": "Plugin",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:51:44.4776108+08:00",
-    "ModuleType": 40,
-    "ToRemoveFiles": [
-      "Plugin\\PC组件包-ElementPlus-9_0_1_0.zip"
-    ]
+    "ModuleType": 40
   }
 ]
