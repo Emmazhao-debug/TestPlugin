@@ -254,7 +254,17 @@
   },
   {
     "ModuleName": "PCPage/Repeater",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T17:46:25.8290206+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\错误警告信息\\Repeater.json",
+      "Pages\\b4fd58eec0f84c598585b2391c21913.json"
+    ]
   },
   {
     "ModuleName": "MobilePage/手机页面显示",
