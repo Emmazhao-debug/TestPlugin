@@ -1,5 +1,5 @@
 {
-  "Name": "服务端命令1",
+  "Name": "验证命令签出",
   "Enabled": true,
   "Triggers": [
     {
@@ -19,27 +19,7 @@
             }
           ]
         }
-      },
-      "Parameters": [
-        {
-          "Name": "username",
-          "Remark": "必填项"
-        },
-        {
-          "Name": "fullname",
-          "Remark": "选填项目"
-        },
-        {
-          "Name": "pasword"
-        }
-      ]
-    }
-  ],
-  "Commands": [
-    {
-      "$type": "Forguncy.Model.ExportPageToPdfCommand, ServerDesignerCommon",
-      "TargetPageName": "simplename",
-      "ServerExportFileName": "D:\\download\\ExportPDFSimplePage"
+      }
     }
   ]
 }
