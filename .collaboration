@@ -238,16 +238,7 @@
   },
   {
     "ModuleName": "PCPage/simpletestforselection",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:54:40.3353885+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\清除选择行\\simpletestforselection.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Pages/错误警告信息",
@@ -255,16 +246,7 @@
   },
   {
     "ModuleName": "PCPage/CellNameinUserControl",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:54:40.3353994+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\错误警告信息\\CellNameinUserControl.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/PC页面警告",
@@ -288,29 +270,11 @@
   },
   {
     "ModuleName": "PCPage/simplename",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:54:40.3354324+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\验证页面命名\\simplename.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/修改浮动图片",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:54:40.3354521+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\验证页面命名\\修改浮动图片.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/页面1",
@@ -334,16 +298,7 @@
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:52:39.0186376+08:00",
-    "ModuleType": 3,
-    "ToRemoveFiles": [
-      "MasterPages\\FGC_母版页.json"
-    ]
+    "ModuleType": 3
   },
   {
     "ModuleName": "UserControlPage/UserControl",

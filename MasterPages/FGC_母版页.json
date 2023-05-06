@@ -8,7 +8,7 @@
       },
       "1": {
         "GridRowColumnDefinition": {
-          "DesignLengthInPixel": 32.0
+          "DesignLengthInPixel": 46.0
         }
       },
       "2": {
@@ -230,6 +230,98 @@
     "Count": 64
   },
   "AttachInfos": {
+    "1,9": {
+      "CellType": {
+        "$type": "Forguncy.CustomMenu.ForguncyMenuCellType, Forguncy.CustomMenu",
+        "TemplateKey": "_RS_NewMenuLight",
+        "Items": [
+          {
+            "Text": "错误提示页面",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "CellNameinUserControl"
+              }
+            ],
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Text": "前景图片替换",
+            "IconPath": "Application/004_add_4.svg",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "修改浮动图片"
+              }
+            ],
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Text": "报表浮动页面",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "simplename"
+              }
+            ],
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Value": "清除选择行",
+            "Text": "清除选择行",
+            "IconPath": "Application/157_historyvis_1.svg",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "simpletestforselection"
+              }
+            ],
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          }
+        ],
+        "Orientation": 0,
+        "MenuLevelsStyle": [
+          {
+            "FontSize": 14.66,
+            "Bold": false,
+            "Height": 45.0,
+            "IconHeight": 24.0,
+            "IconWidth": 24.0
+          },
+          {
+            "FontSize": 13.33,
+            "Bold": false,
+            "Height": 40.0,
+            "IconHeight": 24.0,
+            "IconWidth": 24.0
+          }
+        ]
+      }
+    },
     "1,54": {
       "CellType": {
         "$type": "Forguncy.CurrentUserCellType, ServerDesignerCommon",
@@ -294,7 +386,8 @@
   },
   "Spans": [
     "1,54,1,8",
-    "4,2,31,60"
+    "4,2,31,60",
+    "1,9,1,32"
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.MasterPage, ServerDesignerCommon",
@@ -312,7 +405,7 @@
       "ForguncyPictureSourceType": 0,
       "Stretch": 2,
       "Location": "36,8",
-      "Size": "100,32"
+      "Size": "100,46"
     }
   ],
   "BackgroundPictures": [
@@ -327,8 +420,8 @@
       },
       "IsAutomaticStroke": false,
       "IsAutomaticFill": false,
-      "Size": "1272,48",
+      "Size": "1272,62",
       "BoxShadowString": "0 2 0 5 #175D7183"
     }
   ]
-}//LkJOKBN18V/VlPvWzEv/hoQHF6IJPuf3UdK4m7444eXG7jOCXEi9PToBNCg21zreCN4Su88NPPns88Q5mp5FCNW+sAi9ed9wYDQpjNuttWodIcPSJR3UyFPkgSR0DRXlNWHwWHuc7baVAwoiwXOR5YVDQBcyx9424flpkEGrYieseOs76kucIG3xklcXKqybTGjtHrC6bckbKg/sPxi2Wmazg9WnS8kFM3HmOJipSFhca6U+cLGNnt5SquknVey5VHJgZ2lOHqrxXA21qHo4uyf5MUE5Q6SRB6EYcseSB794QUqXVUu3P8/9eMQYokcx1iD6LgLkX/oo2FK16K0YkYzLlsu0jKKXdRLgTkW7nGvar0mH/p7+yA0rjfVOxvyepqKs2A+vP2PZ06hBmBJw26MtOE8YFtRXGFLsrPyun8UIQImvsO6pZKq7ofWOd9k3+jLhhwqe3zG2SLZ0UqVlvPotr7q6zh3RU4z8U1nyKvMccsEQ4FcBVqU5z5Sm5KO8zly+e1vywv2goAxn1NSNwgAGuV2uaBXAc6xOeqjaG/RoVqSzhbhdVE0WRlPy7/9qA8ZgbRHJ5OpiNrYvctTSWqjrTeND0pxsRVX5a5++lkc5irRbPw0TNWdPNQ6RX0bSJYAZZtR09W9DpKVYmS4V9rt1VyOpcn/+mk+QlfvwPufpG44gGshxLjco5FxRIqRwkq+0zlYq4+5xTT0uq48qYeRC36zg4Lex7kSRIRkIn3ei74MhxO5t7FEp99TmHR65qPQoRVduAHJ4uvS3Kk4IwOyhwBpf6xk0XgfA0Tj+1KFrlB46CREWy2PtvvxVC8JZhDzvDxVR3fO1QDqk3ZokTCBpDVTF/upUFWzRmQu6u2/amJqJ0qFylEeK0POlt0VVVS6DgeGP2iHUhxSkkkAPIA==|920
+}//Cqr1mnPBbXmrp+Ah0ha5Gy3Z4RsiV0MBoZj/Ee/bklws2wdMgA3KRuqqZJQLMk4xfx/Ktp93Kkz0hSMaOoDLelRWLVxS4MHO+BtxzSMCrVl2P5Ip1lsLqOuROquxr1P6/0xUbILVNjCni1xhwOnDHJtJq1uNnJmeWRLPVXDvXmXAC3gxWh90xs0FcZC20Pug33h8ynen/5V5aRJPHow2etB1v+zSFCD9ouAvNPqkoRUvmLvn8Ci7n5XvCuiOJvspnnjcyfYNalOxIMR3wxWorNS7sJq3NrBKDBTMfZcMdsOdH1l7ubmls/4SWCQwt6RzGvRz4VNcH9/0uuDmcU17B/kRHy2L8XViYgb+/rQT8gX5CzavZVIT1/XgXrBzSlevN8qgL1qfYdTrIfk75pki9XwIV7QrjLqWASvTSY3M032HWNK1QwShqQYewJvMBop24r9dhsDA1D7YMwBsfktP8VIV3pLFj6SLRicCduYT1C33LsHNAc99pnbG/UChY8o02BXsGd63qKbokLIGpD0K21fZ0HU4HJyYr9lpD7HwXxBFJF62SH5hoTt3b5ILtb8lcChiWcLcmcNsL5yQcCgD+ixQBhuMl5GyELGhgJj9yn5z7vJ7Lig2cvny8wjQPWiiuKf67C/hxoHep8oaj9BI0HIwSTSFTSS4ze+7AXSQlJ9rr4mAKWTHDE6Zex32xv3CH+hZbJq1coo9zcpcway/CsRIIbV33Lb5Zi1RwLwMInpPCPx/ZPln5NjsCPvPLa6FV8mZuHPx660LjhNtSBd7Oey7qmHqA8oBA7zIi2L/fZBJ2e5sFCCZVCnBJM4g3km936RtA+CVxi3FMBcrJRW14EJ0bC7yH/O51uVvRzhjsQ21se0JnkfccjCLjY9GyRP4eq2LrwSH6y9WNgJcUF4qHg==|920

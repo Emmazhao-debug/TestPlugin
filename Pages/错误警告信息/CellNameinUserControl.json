@@ -28,6 +28,7 @@
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "MasterPageName": "FGC_母版页",
     "PermissionData": {
       "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
       "permissionResource": {
@@ -49,4 +50,4 @@
     "PaperSize": {},
     "Margin": {}
   }
-}//dK5k/52mvOS9QskXf6WSJbwlkusLcUsaVIQnOOy6kzf7OHDApnJFdfzjVjXY6bmKF/sN+GmLtKDvhygzGyneCKEStNnk68U+VhoKi9aZvV9tppIYy9gRwtjF4qBJhrpoIAYcotv7IUv4aekHgGM0vwOPF3vyeIxQ7jdtwtR5J6JGGlfQUClnEWsiPSjAYGckUyoLNWCET5EcIj9+Jn8UcWT1+bqVrCX98mAMmr5vNebKDq7f81r4nJ/9t4JXTEA/4BZpH6JhsLpEO6Eh9YwN6rWGsucZ3b5u6Qp7Em0JJaGWLgCxlKw8T80JRx1RFzGd9qAPdWauRZjCpyCEXzMj5tfWOqbAMRKAwJVQoaUz0AgUu00fnKxYrZBhFOb5/H+//MQmxqvlrjVpTMW8x0RNFul3C4sWdp9WvNrcfs9h07koV4NnVDnbW1yzXnYxW8tMI4kBL8PXul7hA38LXgbLAFY0PAdDQbVXKbtdlBCEWuLy4V9hezAzNXS7vTXRuxVglatmEqzpQujInAxMVc4Kdeo8/ZdbZ0JD7LoJ+HaQmMbGlUYahflSigCIO4MABYRbKZRMfNTCbrhysCAu7FMcNdll4LfTElmU/A30RcLtrorbMSXQL7zYjO+o8FWFl0791r6i/cGyMOwi2m3g7GAsRA1yY+fQ5xXNzpEz5hv2+S4LM1UTVqVhtw+btJ/A5bK+G02Fqxes4Sw9UF6mglBwXGoiPuXSvkXFf1FaKa89KP9CLIUOcLGFnsulCsbDlA3XLkRfQH9HGnlsHod0FHLg/YhGV9n2YT3mHXTzSCHJZvKbDHg1KG2RB+dHEN3ayEPAh49Y9Yd6Y5w3BWpt0k1er2zBTOL9/QuECdqNp/iNevPaBODp3JFJ+Et1xFTTmVwkiHR9X8aQ0803wJ65p7VXxg==|920
+}//oyhX0xvO6ZNqUCjcVfpB64D65gk4T/Puw3RyXo5aTKbld3wU4fU08EpZX4s9hLkaBRLapyOm+0FKzx6ox7unD4x9Lay6n+eMliip4IGRwwiXvZnwGlTrU/tWqixIdYknu7MUB93uQLUPwe/dnpCpnBuSFrIcyLICSR+5l9piu0HBDs+ii702LlRu5G/ithcnJC8wlZXPEOtL00DL0oZOosTHSQvVzTxq+0fPXo7pfMk0KTWWv4wd6PWrLz7kTzwWbKUQOpV7CDmIOOB9UG+QWG6VbxAj4Fb0xyOyCKJSu44ynniKMAb8jPdK5D83z0QIWzckU36wkJ0gCcp8vvFJXMop+9091okgs45hpG41gsGAEGpfOD47yuf3J+fPBSLdDJFiioetTLT19TLGyR0JW7/qbnyzCspIZoeHXpkU0rPtRnbUbTFrUUxQ7jrdJTRUpEKX+Se4+witfv5bA7qrVkxVLa/RHWRj5R1M5cNUd1YWrqU/VAmGilCxj2uil0h0XcSjDp/9gbZF+3VByu1fqykYjUZ+HagVHKcBfXxeD1/SPhW5315pZrSFeJURM9WN1Wo4nOmrVpgj2ncpGZw7rFBEbsoqNIswL5JxdILoI/E/lDdu81K6AqP6RYBC8tTF0BX8GmDDM4sh6Yjb65t+BHNI0ROoQmBWvkX3ghv0Pw1QMVUOppzNEsJahu/a7p3+edutUn8rEokc0DhWFDiMIiAuxNh/VH0LJ5Hk+hlfEIry/UO6VdLEYhHP7L3atGsWncNzBBck4Aj8EQCM1FWJZqVOJqG+9WAyPGXxyrarqztV+je0SaK25Pn+zqHOA1Jh+xyzkz3GjDNmY8HT4V/OBnX69xFyUUPh5X/5jY75wyXt8R+jKKx2xGoY08ZDsKGezUBsu1ormvt4DyfytHPH8g==|920
