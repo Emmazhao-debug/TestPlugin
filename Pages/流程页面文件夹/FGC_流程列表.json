@@ -1,0 +1,329 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 40.0
+        }
+      },
+      "3": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "8": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "9": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "10": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "11": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "12": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      }
+    },
+    "Count": 13
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "4": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "6": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "13": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "15": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "26": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "IsHidden": true
+        }
+      },
+      "29": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "31": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "33": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "34": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      }
+    },
+    "InLogicalVisibleIndexes": [
+      25,
+      26,
+      27,
+      28
+    ],
+    "Count": 35
+  },
+  "Values": {
+    "2,29": "发起"
+  },
+  "AttachInfos": {
+    "1,1": {
+      "ListViewInfo": {
+        "Name": "表格1",
+        "TableName": "ACT_RE_PROCDEF_View",
+        "RowIndex": 1,
+        "ColumnIndex": 1,
+        "RowCount": 11,
+        "ColumnCount": 33,
+        "SqlCondition": {
+          "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+          "ColumnBindingInfo": {
+            "TableName": "ACT_RE_PROCDEF_View",
+            "ColumnName": "SUSPENSION_STATE_",
+            "GUID": "e937ded8-a56d-4c47-819f-219d2eca6031"
+          },
+          "Value": "1"
+        },
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_ListStyle2",
+        "ShowColumnHeaderInDesigner": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "ColumnOperation": 2
+      }
+    },
+    "2,1": {
+      "BindingInfo": {
+        "TableName": "ACT_RE_PROCDEF_View",
+        "ColumnName": "NAME_",
+        "GUID": "b19b78db-14f4-47c9-bb7e-849b647be316"
+      }
+    },
+    "2,8": {
+      "BindingInfo": {
+        "TableName": "ACT_RE_PROCDEF_View",
+        "ColumnName": "DESCRIPTION_",
+        "GUID": "39c7506e-75d7-4f35-bb39-185a7ae03f69"
+      }
+    },
+    "2,21": {
+      "BindingInfo": {
+        "TableName": "ACT_RE_PROCDEF_View",
+        "ColumnName": "VERSION_",
+        "GUID": "1169f269-30ff-44c3-a553-7f6c38768dc0"
+      }
+    },
+    "2,25": {
+      "BindingInfo": {
+        "TableName": "ACT_RE_PROCDEF_View",
+        "ColumnName": "ID_",
+        "GUID": "da2af3fa-93dd-499a-af12-da4c62a60388"
+      }
+    },
+    "2,29": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ProcessStartCommand, ServerDesignerCommon",
+            "ProcessDefinitionId": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=FGC_流程列表!Z3"
+            },
+            "StartType": 1,
+            "ReturnResultName": "发起流程结果"
+          },
+          {
+            "$type": "Forguncy.Model.ConditionCommand, ServerDesignerCommon",
+            "ConditionAndCommandPairList": [
+              {
+                "Condition": {
+                  "$type": "Forguncy.Model.IfCondition, ServerDesignerCommon",
+                  "param": {
+                    "$type": "Forguncy.Model.IfConditionPageElementParam, ServerDesignerCommon",
+                    "cellLocations": [
+                      {
+                        "SerializeProperty": "=FGC_流程列表!发起流程结果.TaskExists"
+                      }
+                    ]
+                  },
+                  "value": "1"
+                },
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.ShowPopupCommand, ServerDesignerCommon",
+                    "PageName": "FGC_任务详情"
+                  }
+                ],
+                "Comments": "如果流程发起后，存在当前用户正在办理的任务，那么弹出任务详情页面",
+                "ID": "3f816799-3859-4007-a8d5-564d0c717582"
+              }
+            ]
+          }
+        ],
+        "Text": "发起",
+        "TemplateKey": "流程样式2"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "Background": 0,
+        "FontWeight": 1,
+        "Foreground": 2,
+        "TextIndent": 20,
+        "HorizontalAlignment": 3
+      },
+      {
+        "Background": 0,
+        "FontFamily": 4,
+        "FontWeight": 1,
+        "Foreground": 2,
+        "TextIndent": 20,
+        "HorizontalAlignment": 3
+      },
+      {
+        "Background": 0,
+        "FontFamily": 4,
+        "FontWeight": 1,
+        "Foreground": 2,
+        "Formatter": 5
+      },
+      {
+        "FontFamily": 4,
+        "FontSize": 13.333333333333332,
+        "Foreground": 6,
+        "TextIndent": 20,
+        "HorizontalAlignment": 3
+      },
+      {
+        "FontFamily": 4,
+        "FontSize": 13.333333333333332,
+        "Foreground": 6,
+        "TextIndent": 24,
+        "HorizontalAlignment": 3
+      },
+      {
+        "FontFamily": 4,
+        "FontSize": 13.333333333333332,
+        "Foreground": 6,
+        "HorizontalAlignment": 7
+      },
+      {
+        "FontSize": 13.333333333333332,
+        "Foreground": 6,
+        "TextIndent": 20,
+        "HorizontalAlignment": 3
+      },
+      {
+        "FontFamily": 4,
+        "FontSize": 13.333333333333332,
+        "HorizontalAlignment": 7
+      },
+      {
+        "FontFamily": 4,
+        "HorizontalAlignment": 7
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "#FFF3F9FC",
+        "Bold",
+        "Text 1 50",
+        "Left",
+        "Body",
+        "[AUTO]General",
+        "Text 1 25",
+        "Center"
+      ]
+    },
+    "CellStyles": {
+      "1,1": 0,
+      "1,8": 1,
+      "1,21": 1,
+      "1,25": 0,
+      "1,29": 2,
+      "2,1": 3,
+      "2,8": 4,
+      "2,21": 5,
+      "2,25": 6,
+      "2,29": 7,
+      "2,30": 8
+    },
+    "SheetStyle": {
+      "FontFamily": 4
+    }
+  },
+  "Spans": [
+    "2,1,1,7",
+    "2,8,1,13",
+    "2,25,1,4",
+    "2,29,1,5",
+    "3,1,9,33",
+    "2,21,1,4",
+    "1,1,1,7",
+    "1,8,1,13",
+    "1,21,1,4",
+    "1,25,1,4",
+    "1,29,1,5"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "MobilePageName": "FGC_流程列表_手机版",
+    "Title": "流程列表",
+    "AuthorizeInfo": {
+      "VisitMode": 2
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "RelatedDataTableName": "ACT_RE_PROCDEF_View"
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}///TZHi8DY2Oo3Lsmh6PRHwgg2jbxYqbpCC/enbElY+roX+rqeiNwPKMGzl37Di/u5QqMhJfhfE0v0/75kKj3mUzdQU2LWB6Ace/Pod8a7p8P3QtRqITGRo9+rVRQkVYoT/Rw4hix2OX9StwIzFwwAJrTbhdjpB7HWrjhcIjEQAPVg/XI0doMcRmx3tLFHa3k50T2fFDsU4rPn+r1OwY0tyXeIMiSpbKuL8LxB5rzEv+LrHwb9ZJCvIrOWUSALzzor+GPznl0FLceF2BDuyOFrkq6EZ9MEXC17sjhAbj/nBC81wcM0X1bpkyVSCpqPwJyyBNCGuS+yiL6puzdwQqBcJgFNupANm59HdgzVTq4wzopIdYvpY8kXlihPEvto0t4iipyubXng/juIlFEgqHWc74dWzMKk6FI5+KXdrfmtf6T8aW72ML7F+gGZ4Mh1aZPxJpc+sIYmiV1EWf9mIRgf9hzBRodsgq1OshEGoTKJImXk/fTfmk35pkYgmAjJRQ8DLf086RZ7sDFPHsRM5iCKSZeItN5F53iAXqr8tR1MFkCgo1taBiVKuUUDo/GEgre/XBU4X8y3XOvl7IEEOGYXPcB7FSXGzm1npKNJGPhWJYS26D9VN2X3nbjt6gwGbg4Vl0CCjOtzgH/2JHm0+PH5xNI4GtYxuBulc9K4tJlOsWibmFyucLxkqV52eaU6E80WrfHwHicLjAvw5FPYJxWJMdjEn10voXgmn+Tb12sukiXmjMdPLo1z5sgloDV7Vn25kXM6ruCpjd4yjsKqsRrUZdPVE7k4fUwS9r+TP1sydQlpN0IhRncVS5p9Grn0XgpEqKYC7nZHY2LTRpocVqxrtDW361Wa9QiPsNWCY5PoSlYDPfG+08+txSJL50TFfWm4iZPGqKpZFkY9CIQX03Tq7Q==|920

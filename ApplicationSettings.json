@@ -1,0 +1,12 @@
+{
+  "IntegrateWithOtherApplication": {
+    "Password": "t6a@r3e#vw0P"
+  },
+  "ListviewLoadingIndicatorSettings": {},
+  "GlobalProperties": [],
+  "WebSitePort": 54113,
+  "UserServicePort": 58820,
+  "BpmServerSchemaId": "3afe65a7-a7c6-4a9f-bab1-4c5786033e29",
+  "ProcessDataConnectionSet": {},
+  "StartDateFiscalYear": 4
+}
