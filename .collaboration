@@ -278,16 +278,7 @@
   },
   {
     "ModuleName": "PCPage/页面1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:56:39.7296836+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\验证页面命名\\页面1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPages/流程母版页面文件夹",
@@ -416,19 +407,6 @@
   },
   {
     "ModuleName": "Plugin",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:57:15.5623113+08:00",
-    "ModuleType": 40,
-    "ToRemoveFiles": [
-      "Plugin\\PC组件包-ElementPlus-9_0_1_0.zip",
-      "Plugin\\标签页和打开标签命令-9_0_100_0.zip",
-      "Plugin\\自定义菜单类型和树类型-9_0_100_0.zip",
-      "Plugin\\表格选择项容器-9_0_100_0.zip",
-      "Plugin\\设置当前行命令-9_0_100_0.zip"
-    ]
+    "ModuleType": 40
   }
 ]
