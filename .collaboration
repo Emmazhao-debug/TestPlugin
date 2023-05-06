@@ -412,5 +412,15 @@
   {
     "ModuleName": "ServerCommand/验证命令签出",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommandPrivate/服务端命令1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T17:22:36.3881014+08:00",
+    "ModuleType": 27
   }
 ]
