@@ -19,7 +19,80 @@
             }
           ]
         }
+      },
+      "InvokeTriggerTestData": {
+        "UserName": "Administrator"
       }
+    }
+  ],
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.ServerTransactionCommand, ServerDesignerCommon",
+      "CommandList": [
+        {
+          "$type": "Forguncy.Model.Commands.ServerImportExportExcelCommand, ServerDesignerCommon",
+          "FilePath": "D:\\download\\Excel",
+          "SheetNameOrIndex": "导出Excel",
+          "TableName": "汽车企业信息",
+          "Columns": [
+            {
+              "BindingColumn": {
+                "TableName": "汽车企业信息",
+                "ColumnName": "ID",
+                "GUID": "89207c20-6266-4f5b-902c-92bfc849a368"
+              },
+              "ExcelColumnNameOrIndex": "ID",
+              "IsPrimaryKey": true
+            },
+            {
+              "BindingColumn": {
+                "TableName": "汽车企业信息",
+                "ColumnName": "企业",
+                "GUID": "7cfb734f-b210-442d-a6d4-d0bf9451fdd1"
+              },
+              "ExcelColumnNameOrIndex": "企业"
+            },
+            {
+              "BindingColumn": {
+                "TableName": "汽车企业信息",
+                "ColumnName": "联系人",
+                "GUID": "d7430b77-f7f3-479d-8e9d-b021370a421b"
+              },
+              "ExcelColumnNameOrIndex": "联系人"
+            },
+            {
+              "BindingColumn": {
+                "TableName": "汽车企业信息",
+                "ColumnName": "电话",
+                "GUID": "e68498f2-59c6-4806-9aec-fb3c10c1c65b"
+              },
+              "ExcelColumnNameOrIndex": "电话"
+            },
+            {
+              "BindingColumn": {
+                "TableName": "汽车企业信息",
+                "ColumnName": "地址",
+                "GUID": "bdeb29f3-ab94-400a-bcff-ddecf61eca3a"
+              },
+              "ExcelColumnNameOrIndex": "地址"
+            },
+            {
+              "BindingColumn": {
+                "TableName": "汽车企业信息",
+                "ColumnName": "备注",
+                "GUID": "3c6b2cfa-e05c-4746-b013-032a6bdbc210"
+              },
+              "ExcelColumnNameOrIndex": "备注"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "Forguncy.Model.Commands.SetParameterCommand, ServerDesignerCommon",
+      "ParameterName": "数量",
+      "ParameterValue": "1290000",
+      "ID": "ce7a596e8c3641bf8e73921849de97cb"
     }
   ]
 }
