@@ -427,5 +427,15 @@
     },
     "LockDateTime": "2023-05-06T17:13:39.1421998+08:00",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/验证命令签出",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T17:13:51.7622278+08:00",
+    "ModuleType": 15
   }
 ]
