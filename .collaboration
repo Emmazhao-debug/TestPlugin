@@ -1,51 +1,150 @@
 [
   {
     "ModuleName": "Tables/流程表文件夹",
-    "ModuleType": 22
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:50:44.0929737+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": [
+      "Tables\\流程表文件夹"
+    ]
   },
   {
     "ModuleName": "TableProcessView/ACT_HI_COMMENT_View",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:50:44.0920218+08:00",
     "ModuleType": 30,
+    "ToRemoveFiles": [
+      "Tables\\流程表文件夹\\ACT_HI_COMMENT_View.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "TableProcessView/ACT_HI_PROCINST_View",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:50:44.0920247+08:00",
     "ModuleType": 30,
+    "ToRemoveFiles": [
+      "Tables\\流程表文件夹\\ACT_HI_PROCINST_View.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "TableProcessView/ACT_HI_TASKINST_View",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:50:44.0920261+08:00",
     "ModuleType": 30,
+    "ToRemoveFiles": [
+      "Tables\\流程表文件夹\\ACT_HI_TASKINST_View.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "TableProcessView/ACT_RE_PROCDEF_View",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:50:44.0920273+08:00",
     "ModuleType": 30,
+    "ToRemoveFiles": [
+      "Tables\\流程表文件夹\\ACT_RE_PROCDEF_View.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "TableProcessView/ACT_RU_TASK_View",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:50:44.0920299+08:00",
     "ModuleType": 30,
+    "ToRemoveFiles": [
+      "Tables\\流程表文件夹\\ACT_RU_TASK_View.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/_5000行数据",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:50:44.0929836+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\_5000行数据.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/产品列表页面",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:50:44.0929856+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\产品列表页面.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/汽车企业信息",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:50:44.0929871+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\汽车企业信息.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/汽车销售信息",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:50:44.0929882+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\汽车销售信息.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
