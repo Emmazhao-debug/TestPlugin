@@ -411,7 +411,16 @@
   },
   {
     "ModuleName": "ServerCommand/验证命令签出",
-    "ModuleType": 15
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T17:33:48.9972187+08:00",
+    "ModuleType": 15,
+    "ToRemoveFiles": [
+      "ServerCommands\\验证命令签出.json"
+    ]
   },
   {
     "ModuleName": "ServerCommandPrivate/服务端命令1",
