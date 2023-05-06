@@ -21,5 +21,46 @@
         }
       }
     }
+  ],
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.CatchExceptionCommand, ServerDesignerCommon",
+      "TryCommandPart": {
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+            "TableName": "_5000行数据",
+            "UpdateType": "add",
+            "ShowConfirm": false,
+            "UpdateBindingValues": [
+              {
+                "BindingInfo": {
+                  "TableName": "_5000行数据",
+                  "ColumnName": "ImpアイテムA",
+                  "GUID": "6817b7d8-2488-4bbf-9e99-de1126993f42"
+                },
+                "Value": "AAA"
+              },
+              {
+                "BindingInfo": {
+                  "TableName": "_5000行数据",
+                  "ColumnName": "ImpアイテムB",
+                  "GUID": "2bee267d-05da-4af3-baf7-e906df5b32c9"
+                },
+                "Value": "BBBB"
+              },
+              {
+                "BindingInfo": {
+                  "TableName": "_5000行数据",
+                  "ColumnName": "ImpアイテムC",
+                  "GUID": "d493a8cc-e526-49a7-98fb-e1efb1ae10d7"
+                },
+                "Value": "CCCC"
+              }
+            ]
+          }
+        ]
+      }
+    }
   ]
 }
