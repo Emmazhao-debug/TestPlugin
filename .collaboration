@@ -347,7 +347,17 @@
   },
   {
     "ModuleName": "ApplicationSetting",
-    "ModuleType": 8
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T17:09:46.6967381+08:00",
+    "ModuleType": 8,
+    "ToRemoveFiles": [
+      "ApplicationSettings.json",
+      "favicon.ico"
+    ]
   },
   {
     "ModuleName": "Theme",
@@ -411,10 +421,28 @@
   },
   {
     "ModuleName": "PCPage/FGC_第三方绑定登录",
-    "ModuleType": 1
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T17:09:46.6968993+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\内建页面\\FGC_第三方绑定登录.json"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_第三方绑定登录_手机版",
-    "ModuleType": 2
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T17:09:46.6969499+08:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\内建手机页面\\FGC_第三方绑定登录_手机版.json"
+    ]
   }
 ]
