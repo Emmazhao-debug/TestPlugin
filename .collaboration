@@ -419,12 +419,6 @@
   },
   {
     "ModuleName": "ServerCommand/服务端命令2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T17:35:23.5059227+08:00",
     "ModuleType": 15
   }
 ]
