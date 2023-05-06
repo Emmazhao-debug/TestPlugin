@@ -1135,31 +1135,94 @@
   },
   {
     "ModuleName": "image/Built-in Images",
-    "ModuleType": 37
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:51:31.1646003+08:00",
+    "ModuleType": 37,
+    "ToRemoveFiles": [
+      "image\\Built-in Images"
+    ]
   },
   {
     "ModuleName": "Image/fgc_built-in-page-logo.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:51:31.1645918+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\Built-in Images\\fgc_built-in-page-logo.png"
+    ]
   },
   {
     "ModuleName": "Image/fgc_built-in-page-maintained.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:51:31.1645939+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\Built-in Images\\fgc_built-in-page-maintained.png"
+    ]
   },
   {
     "ModuleName": "Image/fgc_loading.gif",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:51:31.1645951+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\Built-in Images\\fgc_loading.gif"
+    ]
   },
   {
     "ModuleName": "Image/fgc_logo_dark.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:51:31.1645961+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\Built-in Images\\fgc_logo_dark.png"
+    ]
   },
   {
     "ModuleName": "Image/fgc_logo_light.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:51:31.1645974+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\Built-in Images\\fgc_logo_light.png"
+    ]
   },
   {
     "ModuleName": "Image/download.jpg",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:51:31.1646027+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\download.jpg"
+    ]
   },
   {
     "ModuleName": "UserService",
