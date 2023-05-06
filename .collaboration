@@ -238,7 +238,16 @@
   },
   {
     "ModuleName": "PCPage/simpletestforselection",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:54:40.3353885+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\清除选择行\\simpletestforselection.json"
+    ]
   },
   {
     "ModuleName": "Pages/错误警告信息",
@@ -246,7 +255,16 @@
   },
   {
     "ModuleName": "PCPage/CellNameinUserControl",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:54:40.3353994+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\错误警告信息\\CellNameinUserControl.json"
+    ]
   },
   {
     "ModuleName": "PCPage/PC页面警告",
@@ -270,11 +288,29 @@
   },
   {
     "ModuleName": "PCPage/simplename",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:54:40.3354324+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\验证页面命名\\simplename.json"
+    ]
   },
   {
     "ModuleName": "PCPage/修改浮动图片",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:54:40.3354521+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\验证页面命名\\修改浮动图片.json"
+    ]
   },
   {
     "ModuleName": "PCPage/页面1",
