@@ -1111,7 +1111,18 @@
   },
   {
     "ModuleName": "ProcessItem/验证流程在线编辑",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:51:26.1976212+08:00",
     "ModuleType": 28,
+    "ToRemoveFiles": [
+      "Process\\验证流程在线编辑.json",
+      "Process\\验证流程在线编辑.bpmn",
+      "ProcessForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 1
   },
   {
