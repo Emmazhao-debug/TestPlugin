@@ -1,0 +1,379 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "30": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "InLogicalVisibleIndexes": [
+      17,
+      18,
+      19
+    ],
+    "Count": 31
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "18": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 19
+  },
+  "Values": {
+    "8,3": "欢迎登录",
+    "21,3": "登录",
+    "24,3": "注册",
+    "27,1": "首次登录时，请用系统账号登录。系统关联账号信息后，即可直接访问，无需登录。如没有系统账户，请点击注册新建系统账号。"
+  },
+  "AttachInfos": {
+    "5,3": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "ImagePath": "fgc_logo_dark.png"
+      }
+    },
+    "12,3": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "Icon": {
+          "Name": "Mobile/387_user_2.svg",
+          "BuiltIn": true,
+          "Color": "Text 1 50"
+        },
+        "IconSize": 18.0,
+        "TemplateKey": "_RS_NewUnderline",
+        "WaterMark": "请输入账号",
+        "ForguncyAttribute": "ThirdPartBindingLogin_UserName"
+      },
+      "DataValidationInfo": {
+        "IgnoreBlank": false
+      }
+    },
+    "15,3": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "ShowPassword": true,
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "Icon": {
+          "Name": "Application/078_lock_1.svg",
+          "BuiltIn": true,
+          "Color": "Text 1 50"
+        },
+        "IconSize": 18.0,
+        "TemplateKey": "_RS_NewUnderline",
+        "WaterMark": "请输入密码",
+        "ForguncyAttribute": "ThirdPartBindingLogin_Password"
+      },
+      "DataValidationInfo": {
+        "IgnoreBlank": false
+      }
+    },
+    "18,3": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "ShowPassword": true,
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "Icon": {
+          "Name": "Application/078_lock_1.svg",
+          "BuiltIn": true,
+          "Color": "Text 1 50"
+        },
+        "IconSize": 18.0,
+        "TemplateKey": "_RS_NewUnderline",
+        "WaterMark": "请再次输入密码",
+        "ForguncyAttribute": "ThirdPartBindingLogin_Password_Confirm"
+      },
+      "DataValidationInfo": {
+        "IgnoreBlank": false
+      }
+    },
+    "21,3": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "Text": "登录",
+        "AutoExecute": true,
+        "TemplateKey": "_RS_Main1",
+        "ForguncyAttribute": "ThirdPartBindingLogin_LoginButton"
+      }
+    },
+    "24,3": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ConditionCommand, ServerDesignerCommon",
+            "ConditionAndCommandPairList": [
+              {
+                "Condition": {
+                  "$type": "Forguncy.Model.IfCondition, ServerDesignerCommon",
+                  "param": {
+                    "$type": "Forguncy.Model.IfConditionPageElementParam, ServerDesignerCommon",
+                    "cellLocations": [
+                      {
+                        "SerializeProperty": "=FGC_第三方绑定登录!D22"
+                      }
+                    ]
+                  },
+                  "value": "登录"
+                },
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.SetRowColumnLayoutCommand, ServerDesignerCommon",
+                    "PropertyItemsList": [
+                      {
+                        "Location": {
+                          "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                          "SerializeProperty": "=FGC_第三方绑定登录!18:20"
+                        },
+                        "Value": true
+                      }
+                    ]
+                  },
+                  {
+                    "$type": "Forguncy.Model.SetCellPropertyCommand, ServerDesignerCommon",
+                    "PropertyItemsList": [
+                      {
+                        "TargetCells": {
+                          "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                          "SerializeProperty": "=FGC_第三方绑定登录!D9"
+                        },
+                        "Value": "欢迎注册"
+                      },
+                      {
+                        "TargetCells": {
+                          "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                          "SerializeProperty": "=FGC_第三方绑定登录!D22"
+                        },
+                        "Value": "注册"
+                      },
+                      {
+                        "TargetCells": {
+                          "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                          "SerializeProperty": "=FGC_第三方绑定登录!D25"
+                        },
+                        "Value": "关联已有账号"
+                      }
+                    ]
+                  }
+                ],
+                "ID": "52c3629f-e02a-4e44-b650-7185e6117cf5"
+              },
+              {
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.SetRowColumnLayoutCommand, ServerDesignerCommon",
+                    "PropertyItemsList": [
+                      {
+                        "Location": {
+                          "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                          "SerializeProperty": "=FGC_第三方绑定登录!18:20"
+                        },
+                        "Value": false
+                      }
+                    ]
+                  },
+                  {
+                    "$type": "Forguncy.Model.SetCellPropertyCommand, ServerDesignerCommon",
+                    "PropertyItemsList": [
+                      {
+                        "TargetCells": {
+                          "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                          "SerializeProperty": "=FGC_第三方绑定登录!D9"
+                        },
+                        "Value": "欢迎登录"
+                      },
+                      {
+                        "TargetCells": {
+                          "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                          "SerializeProperty": "=FGC_第三方绑定登录!D22"
+                        },
+                        "Value": "登录"
+                      },
+                      {
+                        "TargetCells": {
+                          "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                          "SerializeProperty": "=FGC_第三方绑定登录!D25"
+                        },
+                        "Value": "注册"
+                      }
+                    ]
+                  }
+                ],
+                "ID": "88951122-14e2-43e2-a4fb-ef28ee66cf64"
+              }
+            ]
+          }
+        ],
+        "Text": "注册",
+        "ClickMode": 1,
+        "TemplateKey": "_RS_Main"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0,
+        "FontSize": 24.0,
+        "FontWeight": 1,
+        "Foreground": 2,
+        "VerticalAlignment": 3,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 14.666666666666666,
+        "Foreground": 4,
+        "Formatter": 5,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 16.0,
+        "Formatter": 6,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 16.0,
+        "HorizontalAlignment": 7,
+        "VerticalAlignment": 3,
+        "Underline": false
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 12.0,
+        "Foreground": 8,
+        "WordWrap": true
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body",
+        "Bold",
+        "Text 1 25",
+        "Bottom",
+        "Text 1 15",
+        "@",
+        "[AUTO]General",
+        "Center",
+        "Background 1 0"
+      ]
+    },
+    "CellStyles": {
+      "8,3": 0,
+      "12,3": 1,
+      "15,3": 1,
+      "18,3": 1,
+      "21,3": 2,
+      "24,3": 3,
+      "27,1": 4
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "27,1,3,17",
+    "5,3,3,7",
+    "21,3,2,13",
+    "24,3,1,13",
+    "12,3,2,13",
+    "15,3,2,13",
+    "18,3,2,13",
+    "8,3,2,13"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "MobilePageName": "FGC_第三方绑定登录_手机版",
+    "Title": "第三方绑定登录",
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "IsBuiltInPage": true
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  },
+  "BackgroundPictures": [
+    {
+      "Name": "BackgroundPicture0",
+      "ForguncyPictureName": "PCLoginBackground",
+      "ForguncyPictureSourceType": 2,
+      "StyleInfo": {
+        "Fill": null
+      },
+      "IsAutomaticFill": false,
+      "Size": "380,620"
+    },
+    {
+      "Name": "BackgroundPicture1",
+      "StyleInfo": {
+        "CornerRadius": 20.0,
+        "Fill": "Background 1 0"
+      },
+      "IsAutomaticFill": false,
+      "Location": "20,60",
+      "Size": "340,460"
+    }
+  ]
+}//RZLhFJipQv8HyTMNaFhtN8j3QTFj/Bum/9Y6INh+uPBPzyWSUOWV2mZ7EXgJvxwv92HFZZ4Aqohfd9ao3yGqTy49havRvdFO86RqOVgLGQMcl4sIrd166gyIRoVJHcFfJ8ktkKUrd8u2udjpNvDBRE0r3BMCeZRg23KI83Uysct4MMeT9ILD4zjfGbfNH3qhfwlIylOIm8KbQvlNmSDwwZ3mufHTsl0fAIiHZbt6SlC6x84q00hT3tWHVRT3cxQUDwWUPVsS7ds1goeJ2ZlozQqSh5QR+vb4SfOlFdyV2hrthgxArs2s1m76dX6jhg5bS1FdKRzcdUNAaXcs4NzJvlV+57H5iE+CbhluIE/40pNC+ufH2s/GjcrXQk/inhlKap1aWwuQDRXsM8NhhKH65VPoQ4lZEXEBKsLDO15KsqfizCnKa2WTIpO9E8jsblcQvFf0FPhEu4W+uZvS6hc4dKT7cwAjADomBSvfVU4ZJKNmDtrN27/XjCikLePrlcUzw4vItDcoRksJp4aNB60KiexFMeePEZ7+KbfAkjO6cPO5qGcGtW/KETtZlump0iuXmQqFsxTK0sojXmL2BH67FhxnTuHwd1sP3CEuJ7r58Yh/fK1EgJIuBMzhYKNFYyvqL3hkUyil0xY4E027oBXKuVK4u8ekLTY1h3NyLcrpdpL55djvs13vLM9VaYzvfwIIeHNwEdnRSCBz90dTiQ8KDa2vDpSBEOKV9dxpZ6UbAJf3FczK1dFiFYiCTvxeIacme3KPYyeNcLvzSpD9092JpQjUpdlxExn2dD3MXeajH//dlvUlw7NN5ZxSbdvRqigE/xvoK7vOWgOlfkhpeK1PNFpfzEtKkf7/DvOVHoChbVhrvrCt22SOusRbDqPxQLf4GrF2EyXCphHfLNY6gwIrug==|920

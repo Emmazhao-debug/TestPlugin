@@ -8,5 +8,6 @@
   "UserServicePort": 58820,
   "BpmServerSchemaId": "3afe65a7-a7c6-4a9f-bab1-4c5786033e29",
   "ProcessDataConnectionSet": {},
+  "AuthenticationMode": 4,
   "StartDateFiscalYear": 4
 }
