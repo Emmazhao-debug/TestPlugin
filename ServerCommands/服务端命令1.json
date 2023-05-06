@@ -1,0 +1,17 @@
+{
+  "Name": "服务端命令1",
+  "Enabled": true,
+  "Triggers": [
+    {
+      "$type": "Forguncy.ServerCommands.Models.InvokeTrigger, ServerDesignerCommon"
+    }
+  ],
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.Commands.SetParameterCommand, ServerDesignerCommon",
+      "ParameterName": "数量",
+      "ParameterValue": "1290000",
+      "ID": "cb903cb274c343c993ce3ec997e9a786"
+    }
+  ]
+}

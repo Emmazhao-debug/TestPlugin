@@ -39,7 +39,7 @@
               "BindingColumn": {
                 "TableName": "汽车企业信息",
                 "ColumnName": "ID",
-                "GUID": "89207c20-6266-4f5b-902c-92bfc849a368"
+                "GUID": "2e596328-f820-4e12-809b-a4aa7421c6e3"
               },
               "ExcelColumnNameOrIndex": "ID",
               "IsPrimaryKey": true
@@ -48,7 +48,7 @@
               "BindingColumn": {
                 "TableName": "汽车企业信息",
                 "ColumnName": "企业",
-                "GUID": "7cfb734f-b210-442d-a6d4-d0bf9451fdd1"
+                "GUID": "c63db3d2-5dc3-4c82-a0e4-e4c6f388fe67"
               },
               "ExcelColumnNameOrIndex": "企业"
             },
@@ -56,7 +56,7 @@
               "BindingColumn": {
                 "TableName": "汽车企业信息",
                 "ColumnName": "联系人",
-                "GUID": "d7430b77-f7f3-479d-8e9d-b021370a421b"
+                "GUID": "5996a055-18e1-4207-98ba-fafa39edfabd"
               },
               "ExcelColumnNameOrIndex": "联系人"
             },
@@ -64,7 +64,7 @@
               "BindingColumn": {
                 "TableName": "汽车企业信息",
                 "ColumnName": "电话",
-                "GUID": "e68498f2-59c6-4806-9aec-fb3c10c1c65b"
+                "GUID": "fad6effe-dfe5-4d00-8f2c-57e16515cb20"
               },
               "ExcelColumnNameOrIndex": "电话"
             },
@@ -72,7 +72,7 @@
               "BindingColumn": {
                 "TableName": "汽车企业信息",
                 "ColumnName": "地址",
-                "GUID": "bdeb29f3-ab94-400a-bcff-ddecf61eca3a"
+                "GUID": "54b598db-50bd-4112-bb43-cf75c02f79eb"
               },
               "ExcelColumnNameOrIndex": "地址"
             },
@@ -80,7 +80,7 @@
               "BindingColumn": {
                 "TableName": "汽车企业信息",
                 "ColumnName": "备注",
-                "GUID": "3c6b2cfa-e05c-4746-b013-032a6bdbc210"
+                "GUID": "280683da-8e02-4bca-9b5a-269ec556166d"
               },
               "ExcelColumnNameOrIndex": "备注"
             }
@@ -89,10 +89,9 @@
       ]
     },
     {
-      "$type": "Forguncy.Model.Commands.SetParameterCommand, ServerDesignerCommon",
-      "ParameterName": "数量",
-      "ParameterValue": "1290000",
-      "ID": "ce7a596e8c3641bf8e73921849de97cb"
+      "$type": "Forguncy.Model.RequestServerCommand, ServerDesignerCommon",
+      "ServerCommandName": "服务端命令1",
+      "CheckDataValidation": true
     }
   ]
 }
